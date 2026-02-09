@@ -2,7 +2,7 @@ body{
     background-color:#f3f3f3;
     color:#333;
     width:100%;
-    font-faily:sans-serif;
+    font-family:sans-serif;
     margin:0 auto;
 }
 
@@ -11,6 +11,6 @@ body{
     margin:auto;
     height:120px;
     line-height:120px;
-    background:#47aa8;
+    background:#417aa8;
     color:#fff;
 }
