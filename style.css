@@ -33,6 +33,8 @@ body{
     list-style:none;
 }
 
+.content{
+
 .menu ul li a {
     float:left;
     width:70px;
